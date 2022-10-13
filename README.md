@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nikospapa211
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on a game project
 - 📫 How to reach me ...
 
 <!---
